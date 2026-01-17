@@ -35,12 +35,6 @@ target/
 # CMake
 cmake-build-*/
 
-# File-based project format
-*.iws
-
-# IntelliJ
-out/
-
 # JIRA plugin
 atlassian-ide-plugin.xml
 
@@ -87,7 +81,6 @@ logs/
 *.temp
 *.swp
 *.swo
-*~
 
 # Environment variables
 .env
